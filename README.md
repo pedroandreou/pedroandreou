@@ -35,12 +35,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroandreou&repo=SMTP-Client-Server-Sides&show_icons=true" />
 </a>
 </p>
-
-<p align="center">
-<a href="https://github.com/pedroandreou/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroandreou&repo=DataAnalysisUsingTwitterApi&show_icons=true" />
-</a>
-<a href="https://github.com/pedroandreou/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroandreou&repo=ImageCompDecomp&show_icons=true" />
-</a>
-</p>
