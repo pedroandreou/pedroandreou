@@ -52,7 +52,7 @@
 
 <!--- Activity graph--->
 <p align="center">
-  <a href="https://activity-graph.herokuapp.com/graph?username=pedroandreour&theme=react-dark">
+  <a href="https://activity-graph.herokuapp.com/graph?username=pedroandreou&theme=react-dark">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=pedroandreou&theme=react-dark" />
   </a>
 </p>
