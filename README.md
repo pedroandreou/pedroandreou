@@ -36,8 +36,20 @@
 Machine unlearning is an emerging field in AI that explores how machine learning models can selectively forget specific training data while maintaining their overall performance. This capability is crucial for privacy-preserving AI, addressing data removal requests, and ensuring model adaptability without the computational burden of complete retraining.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1c51bb99-bdbd-4ad1-9aea-2eb243a311f5" alt="Machine Unlearning Process" width="800"/>
+  <img src="https://github.com/user-attachments/assets/1c51bb99-bdbd-4ad1-9aea-2eb243a311f5" alt="Machine Unlearning Process" width="500"/>
 </div>
+
+<details>
+  <summary><b>🏺 &nbsp;Greek-related Projects</b></summary>
+  <br/>
+
+| Project | Description |
+|-------------| ------------- |
+| [Cypriot-LLM](https://github.com/pedroandreou/Cypriot-LLM) | Large Language Model for Cypriot dialect |
+| [Spartan-Warrior-Desktop-App](https://github.com/pedroandreou/Spartan-Warrior-Desktop-App) | Desktop application featuring Spartan warrior theme |
+| [Spartan-Warrior-Android-Game](https://github.com/pedroandreou/Spartan-Warrior-Android-Game) | Android game based on Spartan warrior concept |
+
+</details>
 
 ---
 <!--- Profile Views counter --->
